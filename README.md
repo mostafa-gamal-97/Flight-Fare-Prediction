@@ -40,12 +40,6 @@ The Airline Flight Fare Prediction  project is to predict airline flight fares a
 
 - Price: The price of the ticket
 
-## Challenges:
-----
-
-- EDA
-- Data Preprocessing
-- Feature Engineering
 
 ## Future Scope:
 ----
