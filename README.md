@@ -66,7 +66,7 @@ This means that on average, the standard deviation from ground truth price value
 
 ## Acknowledgements
 
-This project was a KAGGLE competition that was closed 2 years ago.
+This project is my implementation of  a KAGGLE competition. 
 
 ## Future Scope
 
